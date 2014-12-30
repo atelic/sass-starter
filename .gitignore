@@ -24,3 +24,8 @@ Temporary Items
 
 ### Sass ###
 .sass-cache
+
+#Hidden Win+Unix system files
+*.DS_Store
+*[Tt]humbs.db
+*.Trashes
