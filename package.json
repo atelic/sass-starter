@@ -1,7 +1,7 @@
 {
   "name": "sass-starter",
-  "version": "1.0.0",
-  "description": "A starter kit for websites with SASS",
+  "version": "2.0.0",
+  "description": "A starter kit with everything you need for building websites using Sass",
   "main": "index.js",
   "scripts": {
     "test": "test"
