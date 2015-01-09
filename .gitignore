@@ -21,7 +21,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-
 ### Sass ###
 .sass-cache
 
@@ -29,3 +28,12 @@ Temporary Items
 *.DS_Store
 *[Tt]humbs.db
 *.Trashes
+
+# Node
+node_modules
+npm-debug.log
+
+# Git
+.gitignore
+.gitattributes
+

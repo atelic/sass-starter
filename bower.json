@@ -6,9 +6,12 @@
     ".jshintrc",
     "**/*.txt"
   ],
-  "dependencies": {
-        "jquery": "latest",
-        "backbone": "latest",
-        "underscore": "latest"
-    }
+  "devDependencies": {
+    "fontawesome": "~4.2.0",
+    "modernizr": "~2.8.3",
+    "jquery": "latest",
+    "backbone": "latest",
+    "underscore": "latest",
+    "bootstrap": "~3.3.1"
+  }
 }
